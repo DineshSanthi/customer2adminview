@@ -100,14 +100,14 @@ document.getElementById('loadingMsg').innerHTML = 'Loading Core API...';
 
 
 	<!-- ACE - main .js file -->
-	<script src="helloworld/ace/ace.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/ace.js" type="text/javascript" charset="utf-8"></script>
 	<!-- Get .js files for any needed ACE modes and themes -->
-	<script src="helloworld/ace/theme-eclipse.js" type="text/javascript" charset="utf-8"></script>
-	<script src="helloworld/ace/mode-java.js" type="text/javascript" charset="utf-8"></script>
-	<script src="helloworld/ace/theme-twilight.js" type="text/javascript" charset="utf-8"></script>
-	<script src="helloworld/ace/mode-perl.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/theme-eclipse.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/mode-java.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/theme-twilight.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/mode-perl.js" type="text/javascript" charset="utf-8"></script>
 	<!--  Needed for autocompletion support. -->
-	<script src="helloworld/ace/ext-language_tools.js" type="text/javascript" charset="utf-8"></script>
+	<script src="ace/ext-language_tools.js" type="text/javascript" charset="utf-8"></script>
 
 <script type="text/javascript">
 function readCookie(name) {
